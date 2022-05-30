@@ -1,0 +1,1 @@
+It's a Tableau Dashboard on peoples who survived in Titanic Accident.
